@@ -1,0 +1,15 @@
+[user]
+	name = Bear Cherian
+	email = bearcherian@github.com
+[github]
+	user = bearcherian
+[push]
+	default = simple
+[credential]
+	helper = cache
+[alias]
+	st = status
+	co = checkout
+	b = branch
+[url "https://github.com/"]
+	insteadOf = git@github.com:
